@@ -1,0 +1,17 @@
+.top_nav_bar{
+    border:2px solid red;
+    display: flex;
+    justify-content:center ;
+    padding: 10px;
+    align-items: center; 
+    background-color: rgb(240, 243, 243);
+}
+.nav_links a{
+    display: inline-block;
+    padding: 0 10px;
+    color: black;
+}
+.nav_links a:hover {
+    color: #e9eaf0;
+}
+  
